@@ -1,0 +1,2 @@
+# Socket_Programming
+Operation in Server Side:The client will pass the server a string (eg: “network”) up to 100 characters in length.   On receiving a string from a client, the server should: 1) reverse all the characters, and 2) reverse the capitalization of the strings (“network” would now become “KROWTEN”).   The server should then send the string back to the client. The client will display the received string and exit.
